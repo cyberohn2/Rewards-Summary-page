@@ -12,7 +12,7 @@ function App() {
   };
 
   return (
-    <div className="font-jakarta flex">
+    <div className="font-jakarta flex scroll-smooth">
       {/* Sidebar */}
       <Sidebar sidebarOpen={sidebarOpen} toggleSidebar={toggleSidebar} />
 

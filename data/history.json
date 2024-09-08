@@ -1,0 +1,42 @@
+[
+    {
+      "date": "2024-09-01",
+      "amountEarned": 15000,
+      "bookingDetails": {
+        "serviceName": "Car Rental",
+        "bookingId": "HB12345"
+      }
+    },
+    {
+      "date": "2024-09-05",
+      "amountEarned": 5000,
+      "bookingDetails": {
+        "serviceName": "Flight Booking",
+        "bookingId": "FB67890"
+      }
+    },
+    {
+      "date": "2024-09-10",
+      "amountEarned": 8000,
+      "bookingDetails": {
+        "serviceName": "Hotel Booking" ,
+        "bookingId": "CR54321"
+      }
+    },
+    {
+      "date": "2024-09-15",
+      "amountEarned": 12000,
+      "bookingDetails": {
+        "serviceName": "Tour Package",
+        "bookingId": "TP98765"
+      }
+    },
+    {
+      "date": "2024-09-20",
+      "amountEarned": 6000,
+      "bookingDetails": {
+        "serviceName": "Restaurant Reservation",
+        "bookingId": "RR11223"
+      }
+    }
+  ]

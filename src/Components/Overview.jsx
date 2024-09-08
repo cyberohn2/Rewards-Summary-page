@@ -25,7 +25,7 @@ const Overview = () => {
     };
   
     return (
-      <div className="mt-8">
+      <div className="my-8">
         <h2 className="text-[rgb(14,30,39)] text-lg sm:text-xl font-bold mb-2">Overview</h2>
         <div className="flex flex-col sm:flex-row gap-4 sm:gap-7 w-full">
           {/* Total Cashback */}

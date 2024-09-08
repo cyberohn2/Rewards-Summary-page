@@ -40,7 +40,7 @@ const History = () => {
   return (
     <div id='history'>
       <h1 className="text-[rgb(14,30,39)] text-lg sm:text-xl font-bold mb-2">History</h1>
-      <div className="h-[40vh] overflow-scroll">
+      <div className="h-[40vh] overflow-y-scroll">
         {transactions.length > 0 ? (
           transactions.map((transaction) => (
             <HistoryItem

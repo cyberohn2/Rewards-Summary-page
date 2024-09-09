@@ -26,7 +26,7 @@ To set up this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rewards-summary-page.git
+   git clone https://github.com/cyberohn2/rewards-summary-page.git
    ```
 
 2. Navigate to the project directory:
